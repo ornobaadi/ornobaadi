@@ -34,8 +34,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ornobaadi&show_icons=true&locale=en&layout=compact" alt="ornobaadi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ornobaadi&show_icons=true&locale=en" alt="ornobaadi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ornobaadi&show_icons=true&theme=dracula&title_color=ffffff&locale=en" alt="ornobaadi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ornobaadi&" alt="ornobaadi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ornobaadi&theme=dark" alt="ornobaadi" /></p>
 
 [![Ornob's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ornobaadi&bg_color=050505&color=ffffff&line=40d22d&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
