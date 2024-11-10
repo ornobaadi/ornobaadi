@@ -25,7 +25,8 @@
   </a>
 </p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=ornobaadi&theme=github-dark)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ornobaadi&theme=dark" alt="ornobaadi" /></p>
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ornobaadi&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ornobaadi&theme=github_dark&utcOffset=8)
