@@ -38,4 +38,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ornobaadi&" alt="ornobaadi" /></p>
 
-[![Ornob's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ornobaadi&bg_color=ffffff&color=000000&line=40d22d&point=383838&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ornob's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ornobaadi&bg_color=050505&color=ffffff&line=40d22d&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
