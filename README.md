@@ -21,7 +21,7 @@
 ## 	📚 Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,figma,django,express,firebase,kotlin,mongodb,netlify,nodejs,notion,php,py,sublime,ts,xd,vite,vercel&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,figma,django,express,firebase,kotlin,mongodb,nextjs,nodejs,notion,php,py,sublime,ts,xd,vite,vercel&perline=7" />
   </a>
 </p>
 
@@ -51,5 +51,4 @@
    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@ornobaadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ornobaadi" height="60" width="60" /></a>
   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-<a href="https://discord.gg/ornobaadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ornobaadi" height="60" width="60" /></a>
 </p>
