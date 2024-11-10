@@ -2,10 +2,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Description of GIF">
 </p>
 
-
-
-<br>
-
 <h1 align="center">Howdy Partner 👋, I'm Abu Jafar Md. Fajlay Rabby</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
@@ -40,12 +36,18 @@
 
 ## 🤝 Connect with me:
 <p align="left">
-<a href="https://twitter.com/ornobaadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ornobaadi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ornobaadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ornobaadi" height="30" width="40" /></a>
-<a href="https://fb.com/aadi.47/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aadi.47/" height="30" width="40" /></a>
-<a href="https://instagram.com/ornobaadi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ornobaadi/" height="30" width="40" /></a>
-<a href="https://dribbble.com/ornobaadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ornobaadi" height="30" width="40" /></a>
-<a href="https://www.behance.net/ornobaadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ornobaadi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@ornobaadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ornobaadi" height="30" width="40" /></a>
-<a href="https://discord.gg/ornobaadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ornobaadi" height="30" width="40" /></a>
+   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/ornobaadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ornobaadi" height="100" width="100" /></a>
+   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/ornobaadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ornobaadi" height="100" width="100" /></a>
+   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+<a href="https://fb.com/aadi.47/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aadi.47/" height="100" width="100" /></a>
+   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/ornobaadi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ornobaadi/" height="100" width="100" /></a>
+   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+<a href="https://dribbble.com/ornobaadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ornobaadi" height="100" width="100" /></a>
+   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+<a href="https://www.behance.net/ornobaadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ornobaadi" height="100" width="100" /></a>
+   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@ornobaadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ornobaadi" height="100" width="100" /></a>
 </p>
