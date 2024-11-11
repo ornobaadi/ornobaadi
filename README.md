@@ -1,9 +1,11 @@
+
+<h1 align="center">Howdy Partner 👋, I'm Abu Jafar Md. Fajlay Rabby</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Description of GIF">
 </p>
 
-<h1 align="center">Howdy Partner 👋, I'm Abu Jafar Md. Fajlay Rabby</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ornobaadi&label=Profile%20views&color=0e75b6&style=flat" alt="ornobaadi" /> </p>
 
@@ -37,7 +39,6 @@
 
 ## 🤝 Connect with me:
 <p align="left">
-   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/ornobaadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ornobaadi" height="60" width="60" /></a>
    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/ornobaadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ornobaadi" height="60" width="60" /></a>
