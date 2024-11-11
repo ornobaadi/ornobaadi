@@ -34,7 +34,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ornobaadi&theme=github_dark&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ornobaadi&theme=github_dark)
 
-[![Ornob's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ornobaadi&bg_color=050505&color=ffffff&line=40d22d&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ornob's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ornobaadi&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## 🤝 Connect with me:
