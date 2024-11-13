@@ -27,7 +27,7 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ornobaadi&theme=dark" alt="ornobaadi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ornobaadi&theme=github-dark" alt="ornobaadi" /></p>
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ornobaadi&theme=2077)
