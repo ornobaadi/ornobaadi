@@ -27,7 +27,8 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ornobaadi&theme=github-dark" alt="ornobaadi" /></p>
+[![GitHub Streak](https://codebucks-readme-streak-stats-self-hosted.vercel.app?user=ornobaadi&theme=github-dark)](https://git.io/streak-stats)
+
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ornobaadi&theme=2077)
