@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **aadi4789@gmail.com**
 
-- ⚡ Fun fact **When I'm not coding, I'm experimenting with UI designs 🎨**
+- ⚡ **When I'm not coding, I'm experimenting with UI designs 🎨**
 
 
 ## 	📚 Languages and Tools:
