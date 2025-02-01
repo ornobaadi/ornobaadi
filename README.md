@@ -23,7 +23,7 @@
 ## 	📚 Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,figma,git,firebase,mongodb,express,nodejs,sublime,ts,vercel&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,figma,git,firebase,mongodb,express,nodejs,nextjs,ts,vercel&perline=7" />
   </a>
 </p>
 
