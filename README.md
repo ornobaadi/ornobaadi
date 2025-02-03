@@ -11,9 +11,13 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ornobaadi?tab=repositories](https://github.com/ornobaadi?tab=repositories)
-
 - 💬 Ask me about **HTML, Tailwind CSS, React**
+
+- 👨‍💻 All of my projects are available at [**Projects**](https://github.com/ornobaadi?tab=repositories)
+
+- 📄 My [**Resume**](https://drive.google.com/file/d/1I2idnDbK-85X6lnULvrorhA2ZYGrHFXj/view?usp=sharing)
+
+- 🙍‍♂️ My  [**Portfolio**](https://ornobaadi-1.web.app/)
 
 - 📫 How to reach me **aadi4789@gmail.com**
 
