@@ -1,5 +1,5 @@
 
-<h1 align="center">Howdy Partner 👋, I'm Abu Jafar Md. Fajlay Rabby</h1>
+<h1 align="center">Howdy 👋, I'm Abu Jafar Md. Fajlay Rabby</h1>
 <h3 align="center">Frontend developer from Bangladesh</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ornobaadi&label=Profile%20views&color=0e75b6&style=flat" alt="ornobaadi" /> </p>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently exploring **NextJS & shadcn**
 
 - 💬 Ask me about **HTML, Tailwind CSS, React**
 
@@ -37,7 +37,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ornobaadi&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ornobaadi&theme=github_dark&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ornobaadi&theme=github_dark)
+
 
 [![Ornob's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ornobaadi&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
