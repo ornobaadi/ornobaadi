@@ -60,7 +60,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="tel:+8801974716063">
-    <img src="https://img.shields.io/badge/Call%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/+8801974716063-075E54?style=for-the-badge&logo=phone&logoColor=white"/>
   </a>
 </p>
  <br>
