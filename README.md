@@ -9,53 +9,56 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ornobaadi&label=Profile%20views&color=0e75b6&style=flat" alt="ornobaadi" /> </p>
 
-- 🌱 I’m currently exploring **NextJS & shadcn**
+🌱 **Currently Exploring:**  
+I'm diving deep into **Next.js** and **shadcn** to build modern, seo friendly and beautiful web applications.
 
-- 💬 Ask me about **HTML, Tailwind CSS, React**
+💬 **Ask me about:**  
+- **HTML**  
+- **Tailwind CSS**  
+- **React**  
 
-- 👨‍💻 All of my projects are available at [**Projects**](https://github.com/ornobaadi?tab=repositories)
+👨‍💻 **Projects:**  
+All of my projects are available on my [**GitHub Repositories**](https://github.com/ornobaadi?tab=repositories). Feel free to explore and contribute!
 
-- 📄 My [**Resume**](https://drive.google.com/file/d/1I2idnDbK-85X6lnULvrorhA2ZYGrHFXj/view?usp=sharing)
+📄 **Resume:**  
+Check out my [**Resume**](https://drive.google.com/file/d/1I2idnDbK-85X6lnULvrorhA2ZYGrHFXj/view?usp=sharing) to learn more about my skills and experience.
 
-- 🙍‍♂️ My  [**Portfolio**](https://ornobaadi-1.web.app/)
+🙍‍♂️ **Portfolio:**  
+Visit my [**Portfolio**](https://ornobaadi-1.web.app/) to see my work in action.
 
-- 📫 How to reach me **aadi4789@gmail.com**
+📫 **How to reach me:**  
+You can email me at **aadi4789@gmail.com** or connect with me on [**LinkedIn**](https://www.linkedin.com/in/your-linkedin-profile).
 
-- ⚡ **When I'm not coding, I'm experimenting with UI designs 🎨**
+⚡ **Fun fact:**  
+When I'm not coding, I'm experimenting with **UI designs** 🎨 and exploring creative ways to enhance user experiences.
 
 
-## 	📚 Languages and Tools:
-<p align="left">
+
+## 🖥️ Languages and Tools:
+<br>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,figma,git,firebase,mongodb,express,nodejs,nextjs,ts,vercel&perline=7" />
   </a>
 </p>
 
-[![GitHub Streak](https://codebucks-readme-streak-stats-self-hosted.vercel.app?user=ornobaadi&theme=github-dark)](https://git.io/streak-stats)
+<div align="center">
+  
+![GitHub Streak](https://codebucks-readme-streak-stats-self-hosted.vercel.app?user=ornobaadi&theme=github-dark)
+
+</div>
 
 
 
+<div align="center">
+  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ornobaadi&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ornobaadi&theme=github_dark&utcOffset=8)
+
+</div>
 
 
 [![Ornob's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ornobaadi&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-## 🤝 Connect with me:
-<p align="left">
-<a href="https://twitter.com/ornobaadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ornobaadi" height="60" width="60" /></a>
-   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/ornobaadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ornobaadi" height="60" width="60" /></a>
-   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-<a href="https://fb.com/aadi.47/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aadi.47/" height="60" width="60" /></a>
-   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/ornobaadi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ornobaadi/" height="60" width="60" /></a>
-   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-<a href="https://dribbble.com/ornobaadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ornobaadi" height="60" width="60" /></a>
-   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-<a href="https://www.behance.net/ornobaadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ornobaadi" height="60" width="60" /></a>
-   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/@ornobaadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ornobaadi" height="60" width="60" /></a>
-  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-</p>
+
