@@ -6,6 +6,11 @@
   <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Description of GIF">
 </p>
 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25"/> About Me
+
+I'm a Frontend Developer from Bangladesh with strong skills in Backend and Database development, making me a versatile Fullstack Developer. I specialize in building responsive, user-friendly applications using React, Next.js, Tailwind CSS, and TypeScript, with backend experience in Node.js, Express, and MongoDB.
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ornobaadi&label=Profile%20views&color=6e5494&style=for-the-badge" alt="Profile Views" />
@@ -66,11 +71,14 @@
  <br>
  <br>
 
+
+
 <div align="center">
   
-# 🖥️ Languages and Tools:
-<br>
+## 🖥️ Languages and Tools:
+
 </div>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
