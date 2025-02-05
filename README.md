@@ -9,28 +9,28 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ornobaadi&label=Profile%20views&color=0e75b6&style=flat" alt="ornobaadi" /> </p>
 
-🌱 **Currently Exploring:**  
-I'm diving deep into **Next.js** and **shadcn** to build modern, seo friendly and beautiful web applications.
+🌱 **Currently Building:**  
+Crafting modern web experiences with **Next.js**, **TypeScript**, and **shadcn/ui** while prioritizing SEO and performance optimization.
 
-💬 **Ask me about:**  
-- **HTML**  
-- **Tailwind CSS**  
-- **React**  
+💼 **Expertise:**  
+- Frontend Development
+- Responsive Web Design
+- UI/UX Implementation
+- Modern React Patterns
 
-👨‍💻 **Projects:**  
-All of my projects are available on my [**GitHub Repositories**](https://github.com/ornobaadi?tab=repositories). Feel free to explore and contribute!
+👨‍💻 **Featured Work:**  
+Explore my latest projects in my [**GitHub Repositories**](https://github.com/ornobaadi?tab=repositories)
 
-📄 **Resume:**  
-Check out my [**Resume**](https://drive.google.com/file/d/1I2idnDbK-85X6lnULvrorhA2ZYGrHFXj/view?usp=sharing) to learn more about my skills and experience.
+🎯 **Professional Journey:**  
+• [**Portfolio**](https://ornobaadi-1.web.app/) - See my work in action  
+• [**Resume**](https://drive.google.com/file/d/1I2idnDbK-85X6lnULvrorhA2ZYGrHFXj/view?usp=sharing) - Detailed skills & experience
 
-🙍‍♂️ **Portfolio:**  
-Visit my [**Portfolio**](https://ornobaadi-1.web.app/) to see my work in action.
+📫 **Let's Connect:**  
+• Email: **aadi4789@gmail.com**  
+• LinkedIn: [**Abu Jafar Md. Fajlay Rabby**](https://www.linkedin.com/in/ornobaadi)
 
-📫 **How to reach me:**  
-You can email me at **aadi4789@gmail.com** or connect with me on [**LinkedIn**](https://www.linkedin.com/in/your-linkedin-profile).
-
-⚡ **Fun fact:**  
-When I'm not coding, I'm experimenting with **UI designs** 🎨 and exploring creative ways to enhance user experiences.
+⚡ **Beyond Code:**  
+Passionate about crafting pixel-perfect UI designs 🎨 and optimizing user experiences through creative problem-solving.
 
 
 
@@ -48,15 +48,12 @@ When I'm not coding, I'm experimenting with **UI designs** 🎨 and exploring cr
 
 </div>
 
-
-
 <div align="center">
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ornobaadi&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ornobaadi&theme=github_dark&utcOffset=8)
 
 </div>
-
 
 [![Ornob's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ornobaadi&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
