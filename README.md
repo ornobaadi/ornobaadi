@@ -7,31 +7,59 @@
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ornobaadi&label=Profile%20views&color=0e75b6&style=flat" alt="ornobaadi" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ornobaadi&label=Profile%20views&color=6e5494&style=for-the-badge" alt="Profile Views" />
+</p>
 
-🌱 **Currently Building:**  
-Crafting modern web experiences with **Next.js**, **TypeScript**, and **shadcn/ui** while prioritizing SEO and performance optimization.
+<h3>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25"/> Currently Building
+</h3>
 
-💼 **Expertise:**  
-- Frontend Development
-- Responsive Web Design
-- UI/UX Implementation
-- Modern React Patterns
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/shadcn/ui-000?style=for-the-badge&logo=shadcnui&logoColor=white"/></a>
+</p>
 
-👨‍💻 **Featured Work:**  
-Explore my latest projects in my [**GitHub Repositories**](https://github.com/ornobaadi?tab=repositories)
+<h3>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25"/> Expertise
+</h3>
 
-🎯 **Professional Journey:**  
-• [**Portfolio**](https://ornobaadi-1.web.app/) - See my work in action  
-• [**Resume**](https://drive.google.com/file/d/1I2idnDbK-85X6lnULvrorhA2ZYGrHFXj/view?usp=sharing) - Detailed skills & experience
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Frontend_Development-6e5494?style=for-the-badge"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Tailwind _Customization-26c6da?style=for-the-badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Responsive_Design-133337?style=for-the-badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/React_Patterns-61DAFB?style=for-the-badge"/></a>
+</p>
 
-📫 **Let's Connect:**  
-• Email: **aadi4789@gmail.com**  
-• LinkedIn: [**Abu Jafar Md. Fajlay Rabby**](https://www.linkedin.com/in/ornobaadi)
+<h3>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Round%20Pushpin.png" alt="Target" width="25" height="25"/> Projects & Portfolio
+</h3>
 
-⚡ **Beyond Code:**  
-Passionate about crafting pixel-perfect UI designs 🎨 and optimizing user experiences through creative problem-solving.
+<p align="left">
+  <a href="https://github.com/ornobaadi?tab=repositories">
+    <img src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
+  <a href="https://ornobaadi-1.web.app/">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Portfolio-purple?style=for-the-badge&logoColor=white&logo=browser"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1I2idnDbK-85X6lnULvrorhA2ZYGrHFXj/view">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Resume-white?style=for-the-badge&logoColor=black&logo=download"/>
+  </a>
+</p>
 
+<h3>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25"/> Connect With Me
+</h3>
+
+<p align="left">
+  <a href="mailto:aadi4789@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ornobaadi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 
 ## 🖥️ Languages and Tools:
