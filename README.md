@@ -64,7 +64,7 @@ I'm a Frontend Developer from Bangladesh with strong skills in Backend and Datab
   <a href="https://www.linkedin.com/in/ornobaadi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="tel:+8801974716063">
+  <a href="https://wa.me/+8801974716063?text=Hello%20there!%20I%20would%20like%20to%20discuss%20about%20a%20Project.">
     <img src="https://img.shields.io/badge/+8801974716063-075E54?style=for-the-badge&logo=phone&logoColor=white"/>
   </a>
 </p>
