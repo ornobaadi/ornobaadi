@@ -88,8 +88,7 @@ I'm a Frontend Developer from Bangladesh with strong skills in Backend and Datab
 
 <div align="center">
   
-![GitHub Streak](https://codebucks-readme-streak-stats-self-hosted.vercel.app?user=ornobaadi&theme=github-dark)
-
+<img src="https://nirzak-streak-stats.vercel.app?user=ornobaadi&theme=github-dark&border_radius=10" alt="GitHub Streak">
 </div>
 
 <div align="center">
