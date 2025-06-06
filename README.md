@@ -36,6 +36,8 @@ I thrive on transforming complex ideas into elegant, functional web experiences.
   <a href="#"><img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/shadcn/ui-000?style=for-the-badge&logo=shadcnui&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Chrome_Extension-5F6368?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
 </p>
 
 <h3 align="center">
