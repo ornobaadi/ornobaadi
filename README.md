@@ -59,7 +59,7 @@ I thrive on transforming complex ideas into elegant, functional web experiences.
   <a href="https://github.com/ornobaadi?tab=repositories">
     <img src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
-  <a href="https://ornobaadi-1.web.app/">
+  <a href="https://ornobaadi.vercel.app/">
     <img src="https://custom-icon-badges.demolab.com/badge/-Portfolio-purple?style=for-the-badge&logoColor=white&logo=browser"/>
   </a>
   <a href="https://drive.google.com/file/d/1I2idnDbK-85X6lnULvrorhA2ZYGrHFXj/view">
@@ -72,7 +72,7 @@ I thrive on transforming complex ideas into elegant, functional web experiences.
 </h3>
 
 <p align="center">
-  <a href="mailto:aadi4789@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aadi4789@gmail.com&su=Project%20Idea!">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/ornobaadi">
