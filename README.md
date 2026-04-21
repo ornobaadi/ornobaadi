@@ -15,12 +15,12 @@
   </a>
 </p>
 
----
+<br />
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="90" height="90" />
 
-## About Me
+  <h2>About Me</h2>
 </div>
 
 🚀 **Full-Stack Developer | Frontend Specialist**
@@ -33,23 +33,25 @@ I'm a passionate **Full-Stack Developer** from **Bangladesh**, focused on buildi
 - 🎨 I care deeply about **UI/UX, responsive design, performance optimization, and clean developer experience**
 - 🌱 Currently exploring **advanced frontend patterns, automation workflows, and scalable SaaS architecture**
 
----
+<br />
 
 <div align="center">
 
-## Tech Stack
+<h2>Tech Stack</h2>
 
-### Core
+<h3>Core</h3>
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,supabase,mongodb,nodejs,express,graphql" alt="Core Stack" />
 
-### Tools & Platforms
+<br />
+<br />
+
+<h3>Tools & Platforms</h3>
 
 <img src="https://skillicons.dev/icons?i=firebase,figma,git,github,docker,azure,vercel,vscode" alt="Tools and Platforms" />
 
 <br />
-
-##
+<br />
 
 <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
@@ -60,11 +62,11 @@ I'm a passionate **Full-Stack Developer** from **Bangladesh**, focused on buildi
 
 </div>
 
----
+<br />
 
 <div align="center">
 
-## Expertise
+<h2>Expertise</h2>
 
 <img src="https://img.shields.io/badge/Full--Stack_Architecture-2ea44f?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AI--Powered_Features-ff69b4?style=for-the-badge" />
@@ -73,11 +75,11 @@ I'm a passionate **Full-Stack Developer** from **Bangladesh**, focused on buildi
 
 </div>
 
----
+<br />
 
 <div align="center">
 
-## Projects & Portfolio
+<h2>Projects & Portfolio</h2>
 
 <a href="https://github.com/ornobaadi?tab=repositories">
   <img src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo" />
@@ -91,11 +93,11 @@ I'm a passionate **Full-Stack Developer** from **Bangladesh**, focused on buildi
 
 </div>
 
----
+<br />
 
 <div align="center">
 
-## Connect With Me
+<h2>Connect With Me</h2>
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aadi4789@gmail.com&su=Project%20Idea!">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -109,10 +111,10 @@ I'm a passionate **Full-Stack Developer** from **Bangladesh**, focused on buildi
 
 </div>
 
----
+<br />
 
-<details>
-  <summary align="center"><b>GitHub Stats</b></summary>
+<details align="center">
+  <summary><b>GitHub Stats</b></summary>
   <br />
 
   <p align="center">
@@ -129,7 +131,7 @@ I'm a passionate **Full-Stack Developer** from **Bangladesh**, focused on buildi
   </p>
 </details>
 
----
+<br />
 
 <p align="center">
   <b>Thanks for visiting my profile!</b>
