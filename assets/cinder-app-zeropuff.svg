@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="220" viewBox="0 0 590 220" role="img" aria-label="ZeroPuff: Flutter app, going live on Google Play shortly.">
+<rect width="590" height="220" rx="16" fill="#0d0c0b"/><rect x=".5" y=".5" width="589" height="219" rx="16" fill="none" stroke="#2a2724"/>
+<rect x="32" y="32" width="92" height="92" rx="24" fill="#141210" stroke="#ff6a1a"/>
+<text x="78" y="92" font-family="'Instrument Serif','Iowan Old Style',Georgia,'Times New Roman',serif" font-size="34" fill="#ff6a1a" text-anchor="middle">ZP</text>
+<text x="148" y="54" font-family="ui-monospace,'SF Mono','Cascadia Code',Consolas,monospace" font-size="11" fill="#8a837a" letter-spacing=".12em" >LAUNCHING SOON</text>
+<text x="146" y="104" font-family="'Instrument Serif','Iowan Old Style',Georgia,'Times New Roman',serif" font-size="44" fill="#f2ede6" >ZeroPuff</text>
+<text x="34" y="166" font-family="Inter,-apple-system,'Segoe UI',system-ui,sans-serif" font-size="16" fill="#8a837a" >Flutter app, going live on Google Play shortly.</text>
+<line x1="34" y1="186" x2="556" y2="186" stroke="#2a2724"/>
+<text x="34" y="206" font-family="ui-monospace,'SF Mono','Cascadia Code',Consolas,monospace" font-size="10" fill="#8a837a" letter-spacing=".12em" >FLUTTER · DART · ANDROID</text>
+<text x="556" y="206" font-family="ui-monospace,'SF Mono','Cascadia Code',Consolas,monospace" font-size="10" fill="#8a837a" letter-spacing=".12em" text-anchor="end">SOON</text>
+</svg>

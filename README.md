@@ -1,140 +1,51 @@
-<h1 align="center">
-  Howdy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" />, I'm Abu Jafar Md. Fajlay Rabby
-</h1>
-
-<h3 align="center">Full-Stack Developer from Bangladesh</h3>
+<a href="https://www.ornobaadi.tech/"><img src="assets/cinder-hero.svg" alt="Fajlay Rabby (Aadi): web products and Flutter apps, shipped end to end. Full stack engineer in Dhaka, open to full-time and freelance work." width="100%"></a>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Developer Animation" width="720" />
+  <a href="https://www.ornobaadi.tech/"><img src="https://img.shields.io/badge/PORTFOLIO-ornobaadi.tech-ff6a1a?style=for-the-badge&labelColor=141210" alt="Portfolio: ornobaadi.tech"></a>
+  <a href="https://www.linkedin.com/in/ornobaadi/"><img src="https://img.shields.io/badge/LINKEDIN-ornobaadi-2a2724?style=for-the-badge&labelColor=141210&logo=linkedin&logoColor=ff6a1a" alt="LinkedIn"></a>
+  <a href="https://x.com/OrnobAadi"><img src="https://img.shields.io/badge/X-OrnobAadi-2a2724?style=for-the-badge&labelColor=141210&logo=x&logoColor=ff6a1a" alt="X"></a>
+  <a href="mailto:aadi4789@gmail.com"><img src="https://img.shields.io/badge/EMAIL-aadi4789@gmail.com-2a2724?style=for-the-badge&labelColor=141210&logo=gmail&logoColor=ff6a1a" alt="Email"></a>
 </p>
+
+<img src="assets/cinder-title-about.svg" alt="Hello, I'm Aadi." width="100%">
+<img src="assets/cinder-about.svg" alt="Full stack engineer building AI-enabled SaaS on Next.js, Node and Postgres, and cross-platform mobile apps in Flutter. About a year at Noverse Inc. on an AI learning platform." width="100%">
+
+<img src="assets/cinder-title-apps.svg" alt="Shipped to phones." width="100%">
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://play.google.com/store/apps/details?id=com.ornobaadi.popcalc"><img src="assets/cinder-app-popcalc.svg" alt="PopCalc on Google Play" width="100%"></a></td>
+    <td width="50%"><a href="https://play.google.com/store/apps/details?id=com.zeropuff.app"><img src="assets/cinder-app-zeropuff.svg" alt="ZeroPuff, launching on Google Play soon" width="100%"></a></td>
+  </tr>
+</table>
+
+<img src="assets/cinder-title-work.svg" alt="Products, not tutorials." width="100%">
+
+<a href="https://noverseinc.com/"><img src="assets/cinder-work-msnovo.svg" alt="MsNovo: AI marking assistant for teachers at Noverse" width="100%"></a>
+<a href="https://chatterbox-space.vercel.app/"><img src="assets/cinder-work-chatterbox.svg" alt="Chatterbox: real-time chat" width="100%"></a>
+<p align="center"><a href="https://github.com/ornobaadi/Chatterbox"><img src="https://img.shields.io/badge/REPOSITORY-Chatterbox-2a2724?style=for-the-badge&labelColor=141210&logo=github&logoColor=ff6a1a" alt="Chatterbox repository"></a></p>
+
+<a href="https://skyy-scout.vercel.app/"><img src="assets/cinder-work-skyscout.svg" alt="SkyScout: flight search on the Amadeus API" width="100%"></a>
+<p align="center"><a href="https://github.com/ornobaadi/SkyScout"><img src="https://img.shields.io/badge/REPOSITORY-SkyScout-2a2724?style=for-the-badge&labelColor=141210&logo=github&logoColor=ff6a1a" alt="SkyScout repository"></a></p>
+
+<a href="https://brain-zap-99226.web.app/"><img src="assets/cinder-work-brainzap.svg" alt="BrainZap: AI-generated quizzes" width="100%"></a>
+<p align="center"><a href="https://github.com/CodeXplorers-PH/brain-zap-client"><img src="https://img.shields.io/badge/REPOSITORY-BrainZap-2a2724?style=for-the-badge&labelColor=141210&logo=github&logoColor=ff6a1a" alt="BrainZap repository"></a></p>
+
+<img src="assets/cinder-title-toolkit.svg" alt="The tools I reach for." width="100%">
+<img src="assets/cinder-toolkit.svg" alt="Frontend: Next.js, React, TypeScript, Tailwind, shadcn/ui. Mobile: Flutter, Dart, Firebase, Play Console. Backend: Node.js, Express, REST, GraphQL, JWT, Clerk. Data: PostgreSQL, Supabase, MongoDB, Firebase. Shipping: Vercel, Azure, Docker, CI/CD, Stripe, n8n. Design: Figma, design systems, accessibility." width="100%">
+
+<img src="assets/cinder-title-activity.svg" alt="A year of building." width="100%">
+<img src="https://raw.githubusercontent.com/ornobaadi/ornobaadi/output/snake-dark.svg" alt="A snake eating my public GitHub contributions from the past year" width="100%">
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ornobaadi&show_icons=true&hide_border=true&bg_color=0d0c0b&title_color=ff6a1a&icon_color=ff6a1a&text_color=f2ede6&ring_color=ff6a1a&custom_title=GitHub%20at%20a%20glance" alt="GitHub stats for ornobaadi" width="420"></p>
+
+<img src="assets/cinder-title-connect.svg" alt="Let's build something." width="100%">
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ornobaadi&label=Profile%20Views&color=6e5494&style=for-the-badge" alt="Profile Views" />
-  <a href="https://github.com/ornobaadi?tab=followers">
-    <img src="https://img.shields.io/github/followers/ornobaadi?label=Followers&style=for-the-badge&color=6e5494" alt="GitHub Followers" />
-  </a>
+  <a href="mailto:aadi4789@gmail.com"><img src="https://img.shields.io/badge/EMAIL-aadi4789@gmail.com-ff6a1a?style=for-the-badge&labelColor=141210&logo=gmail&logoColor=ff6a1a" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/ornobaadi/"><img src="https://img.shields.io/badge/LINKEDIN-ornobaadi-ff6a1a?style=for-the-badge&labelColor=141210&logo=linkedin&logoColor=ff6a1a" alt="LinkedIn"></a>
+  <a href="https://wa.me/8801974716063"><img src="https://img.shields.io/badge/WHATSAPP-message_me-ff6a1a?style=for-the-badge&labelColor=141210&logo=whatsapp&logoColor=ff6a1a" alt="WhatsApp"></a>
+  <a href="https://www.ornobaadi.tech/"><img src="https://img.shields.io/badge/PORTFOLIO-ornobaadi.tech-ff6a1a?style=for-the-badge&labelColor=141210" alt="Portfolio"></a>
 </p>
 
-<br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="90" height="90" />
-
-  <h2>About Me</h2>
-</div>
-
-🚀 **Full-Stack Developer | Frontend Specialist**
-
-I'm a passionate **Full-Stack Developer** from **Bangladesh**, focused on building performant, scalable, and user-friendly web applications.
-
-- 💻 I build modern full-stack apps with **Next.js, React, TypeScript, Tailwind CSS, ShadCN/UI, and Supabase**
-- ⚙️ I work with backend systems using **Node.js, Express.js, MongoDB, Firebase, GraphQL, and REST APIs**
-- 🤖 Experienced in building **AI-powered features, real-time systems, authentication flows, and production-ready architectures**
-- 🎨 I care deeply about **UI/UX, responsive design, performance optimization, and clean developer experience**
-- 🌱 Currently exploring **advanced frontend patterns, automation workflows, and scalable SaaS architecture**
-
-<br />
-
-<div align="center">
-
-<h2>Tech Stack</h2>
-
-<h3>Core</h3>
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,supabase,mongodb,nodejs,express,graphql" alt="Core Stack" />
-
-<br />
-<br />
-
-<h3>Tools & Platforms</h3>
-
-<img src="https://skillicons.dev/icons?i=firebase,figma,git,github,docker,azure,vercel,vscode" alt="Tools and Platforms" />
-
-<br />
-<br />
-
-<img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
-<img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/REST_API-2ea44f?style=for-the-badge" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-<h2>Expertise</h2>
-
-<img src="https://img.shields.io/badge/Full--Stack_Architecture-2ea44f?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI--Powered_Features-ff69b4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/UI%2FUX_Optimization-26c6da?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Performance_Optimization-f39c12?style=for-the-badge" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-<h2>Projects & Portfolio</h2>
-
-<a href="https://github.com/ornobaadi?tab=repositories">
-  <img src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo" />
-</a>
-<a href="https://ornobaadi.vercel.app/">
-  <img src="https://custom-icon-badges.demolab.com/badge/-Portfolio-purple?style=for-the-badge&logoColor=white&logo=browser" />
-</a>
-<a href="https://drive.google.com/file/d/1I2idnDbK-85X6lnULvrorhA2ZYGrHFXj/view">
-  <img src="https://custom-icon-badges.demolab.com/badge/-Resume-white?style=for-the-badge&logoColor=black&logo=download" />
-</a>
-
-</div>
-
-<br />
-
-<div align="center">
-
-<h2>Connect With Me</h2>
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=aadi4789@gmail.com&su=Project%20Idea!">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/ornobaadi">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://wa.me/+8801974716063?text=Hello%20there!%20I%20would%20like%20to%20discuss%20about%20a%20Project.">
-  <img src="https://img.shields.io/badge/WhatsApp-075E54?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
-</div>
-
-<br />
-
-<details align="center">
-  <summary><b>GitHub Stats</b></summary>
-  <br />
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ornobaadi&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ornobaadi&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
-  </p>
-
-  <p align="center">
-    <img src="https://streak-stats.demolab.com?user=ornobaadi&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ornobaadi&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
-  </p>
-</details>
-
-<br />
-
-<p align="center">
-  <b>Thanks for visiting my profile!</b>
-  <br />
-  <i>Let's build something amazing together.</i>
-</p>
+<a href="https://www.ornobaadi.tech/"><img src="assets/cinder-footer.svg" alt="Aadi. Have something to build? ornobaadi.tech" width="100%"></a>
