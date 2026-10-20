@@ -263,27 +263,28 @@ def toolkit():
 
 
 # ---------------------------------------------------------------- links
+# The résumé is the one primary action, so it alone is filled.
 LINKS = [
-    ("portfolio", "SITE", "ornobaadi.tech"),
-    ("linkedin", "LINKEDIN", "ornobaadi"),
-    ("x", "X", "OrnobAadi"),
-    ("email", "EMAIL", "aadi4789@gmail.com"),
-    ("whatsapp", "WHATSAPP", "message me"),
-    ("src-chatterbox", "SOURCE", "Chatterbox"),
-    ("src-skyscout", "SOURCE", "SkyScout"),
-    ("src-brainzap", "SOURCE", "BrainZap"),
+    ("resume", "RÉSUMÉ", "View PDF", True),
+    ("portfolio", "WEBSITE", "ornobaadi.tech", False),
+    ("linkedin", "LINKEDIN", "/in/ornobaadi", False),
+    ("x", "X", "@OrnobAadi", False),
+    ("email", "EMAIL", "aadi4789@gmail.com", False),
+    ("whatsapp", "WHATSAPP", "+880 1974 716063", False),
 ]
 
 
-def link(slug, label, value):
-    lw = 22 + len(label) * 9
-    w = lw + 20 + len(value) * 9 + 40
-    h = 40
-    body = (f'<rect x=".5" y=".5" width="{w-1}" height="{h-1}" rx="8" fill="{PAPER}" stroke="{RULE2}"/>'
-            f'<line x1="{lw}" y1="10" x2="{lw}" y2="30" stroke="{RULE2}"/>'
-            + mono(16, 25, label, MUTE, 11)
-            + t(lw + 16, 26, x(value), 15, SANS, INK)
-            + t(w - 16, 26, "↗", 14, SANS, EMBER, 'text-anchor="end"'))
+def link(slug, label, value, primary):
+    w = max(len(value) * 9.2, len(label) * 8.4) + 92
+    w = int(w)
+    h = 60
+    bg, fg, sub = (EMBER, PAPER, "#5a2a10") if primary else (PANEL, INK, MUTE)
+    cx = w - 30
+    body = (f'<rect x=".5" y=".5" width="{w-1}" height="{h-1}" rx="12" fill="{bg}" stroke="{EMBER if primary else RULE2}"/>'
+            + mono(20, 24, label, sub, 10)
+            + t(20, 45, x(value), 16, SANS, fg, 'font-weight="500"')
+            + f'<circle cx="{cx}" cy="30" r="13" fill="none" stroke="{sub if primary else RULE2}"/>'
+            + t(cx, 35, "↗", 13, SANS, fg if primary else EMBER, 'text-anchor="middle"'))
     (OUT / f"cinder-link-{slug}.svg").write_text(
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" '
         f'role="img" aria-label="{x(label.title())}: {x(value)}">{body}</svg>\n', encoding="utf-8")

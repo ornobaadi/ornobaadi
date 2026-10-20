@@ -1,10 +1,10 @@
 <a href="https://www.ornobaadi.tech/"><img src="assets/cinder-hero.svg" alt="Fajlay Rabby (Aadi): web products and Flutter apps, shipped end to end. Full stack engineer in Dhaka, open to full-time and freelance work." width="100%"></a>
 
 <p align="center">
-  <a href="https://www.ornobaadi.tech/"><img src="assets/cinder-link-portfolio.svg" alt="ornobaadi.tech" height="34"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/ornobaadi/"><img src="assets/cinder-link-linkedin.svg" alt="LinkedIn" height="34"></a>&nbsp;
-  <a href="https://x.com/OrnobAadi"><img src="assets/cinder-link-x.svg" alt="X" height="34"></a>&nbsp;
-  <a href="mailto:aadi4789@gmail.com"><img src="assets/cinder-link-email.svg" alt="Email" height="34"></a>
+  <a href="https://drive.google.com/file/d/1gaW84ZM3Se-QxE3wiByhctVrLGVrozKV/view?usp=sharing"><img src="assets/cinder-link-resume.svg" alt="Résumé (PDF)" height="44"></a>&nbsp;
+  <a href="https://www.ornobaadi.tech/"><img src="assets/cinder-link-portfolio.svg" alt="ornobaadi.tech" height="44"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/ornobaadi/"><img src="assets/cinder-link-linkedin.svg" alt="LinkedIn" height="44"></a>&nbsp;
+  <a href="https://x.com/OrnobAadi"><img src="assets/cinder-link-x.svg" alt="X" height="44"></a>
 </p>
 
 <img src="assets/cinder-title-about.svg" alt="Hello, I'm Aadi." width="100%">
@@ -23,13 +23,10 @@
 
 <a href="https://noverseinc.com/"><img src="assets/cinder-work-msnovo.svg" alt="MsNovo: AI marking assistant for teachers at Noverse" width="100%"></a>
 <a href="https://chatterbox-space.vercel.app/"><img src="assets/cinder-work-chatterbox.svg" alt="Chatterbox: real-time chat" width="100%"></a>
-<p align="center"><a href="https://github.com/ornobaadi/Chatterbox"><img src="assets/cinder-link-src-chatterbox.svg" alt="Chatterbox source" height="34"></a></p>
 
 <a href="https://skyy-scout.vercel.app/"><img src="assets/cinder-work-skyscout.svg" alt="SkyScout: flight search on the Amadeus API" width="100%"></a>
-<p align="center"><a href="https://github.com/ornobaadi/SkyScout"><img src="assets/cinder-link-src-skyscout.svg" alt="SkyScout source" height="34"></a></p>
 
 <a href="https://brain-zap-99226.web.app/"><img src="assets/cinder-work-brainzap.svg" alt="BrainZap: AI-generated quizzes" width="100%"></a>
-<p align="center"><a href="https://github.com/CodeXplorers-PH/brain-zap-client"><img src="assets/cinder-link-src-brainzap.svg" alt="BrainZap source" height="34"></a></p>
 
 <img src="assets/cinder-title-toolkit.svg" alt="The tools I reach for." width="100%">
 <img src="assets/cinder-toolkit.svg" alt="Frontend: Next.js, React, TypeScript, Tailwind, shadcn/ui. Mobile: Flutter, Dart, Firebase, Play Console. Backend: Node.js, Express, REST, GraphQL, JWT, Clerk. Data: PostgreSQL, Supabase, MongoDB, Firebase. Shipping: Vercel, Azure, Docker, CI/CD, Stripe, n8n. Design: Figma, design systems, accessibility." width="100%">
@@ -40,11 +37,9 @@
 <img src="assets/cinder-title-connect.svg" alt="Let's build something." width="100%">
 
 <p align="center">
-  <a href="mailto:aadi4789@gmail.com"><img src="assets/cinder-link-email.svg" alt="Email" height="34"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/ornobaadi/"><img src="assets/cinder-link-linkedin.svg" alt="LinkedIn" height="34"></a>&nbsp;
-  <a href="https://wa.me/8801974716063"><img src="assets/cinder-link-whatsapp.svg" alt="WhatsApp" height="34"></a>
+  <a href="https://drive.google.com/file/d/1gaW84ZM3Se-QxE3wiByhctVrLGVrozKV/view?usp=sharing"><img src="assets/cinder-link-resume.svg" alt="Résumé (PDF)" height="44"></a>&nbsp;
+  <a href="mailto:aadi4789@gmail.com"><img src="assets/cinder-link-email.svg" alt="Email" height="44"></a>&nbsp;
+  <a href="https://wa.me/8801974716063"><img src="assets/cinder-link-whatsapp.svg" alt="WhatsApp" height="44"></a>
 </p>
 
 <a href="https://www.ornobaadi.tech/"><img src="assets/cinder-footer.svg" alt="Aadi. Have something to build? ornobaadi.tech" width="100%"></a>
-
-<p align="center"><sub>Prefer a quieter layout? See <a href="README-v2.md">v2</a>.</sub></p>
