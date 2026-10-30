@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="590" height="250" viewBox="0 0 590 250" role="img" aria-label="PopCalc: A calculator for everyday sums, fast to open and easy to read.">
 <rect width="590" height="250" rx="16" fill="#0d0c0b"/><rect x=".5" y=".5" width="589" height="249" rx="16" fill="none" stroke="#2a2724"/>
-<rect x="32.5" y="32.5" width="91" height="91" rx="22" fill="#141210" stroke="#ff6a1a"/>
-<text x="78" y="92" font-family="'Instrument Serif','Iowan Old Style',Georgia,'Times New Roman',serif" font-size="34" fill="#ff6a1a" text-anchor="middle">PC</text>
-<text x="148" y="54" font-family="ui-monospace,'SF Mono','Cascadia Code',Consolas,monospace" font-size="11" fill="#ff6a1a" letter-spacing=".12em" >ON GOOGLE PLAY</text>
+<rect x="32.5" y="32.5" width="91" height="91" rx="22" fill="#141210" stroke="#4fc3a1"/>
+<text x="78" y="92" font-family="'Instrument Serif','Iowan Old Style',Georgia,'Times New Roman',serif" font-size="34" fill="#4fc3a1" text-anchor="middle">PC</text>
+<text x="148" y="54" font-family="ui-monospace,'SF Mono','Cascadia Code',Consolas,monospace" font-size="11" fill="#4fc3a1" letter-spacing=".12em" >ON GOOGLE PLAY</text>
 <text x="146" y="104" font-family="'Instrument Serif','Iowan Old Style',Georgia,'Times New Roman',serif" font-size="44" fill="#f2ede6" >PopCalc</text>
 <text x="34" y="166" font-family="Inter,-apple-system,'Segoe UI',system-ui,sans-serif" font-size="17" fill="#f2ede6" >A calculator for everyday sums,</text>
 <text x="34" y="192" font-family="Inter,-apple-system,'Segoe UI',system-ui,sans-serif" font-size="17" fill="#8a837a" >fast to open and easy to read.</text>
 <line x1="34" y1="214" x2="556" y2="214" stroke="#2a2724"/>
 <text x="34" y="234" font-family="ui-monospace,'SF Mono','Cascadia Code',Consolas,monospace" font-size="10" fill="#8a837a" letter-spacing=".12em" >FLUTTER · DART</text>
-<text x="556" y="234" font-family="ui-monospace,'SF Mono','Cascadia Code',Consolas,monospace" font-size="10" fill="#ff6a1a" letter-spacing=".12em" text-anchor="end">GOOGLE PLAY ↗</text>
+<text x="556" y="234" font-family="ui-monospace,'SF Mono','Cascadia Code',Consolas,monospace" font-size="10" fill="#4fc3a1" letter-spacing=".12em" text-anchor="end">GOOGLE PLAY ↗</text>
 </svg>

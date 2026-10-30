@@ -15,9 +15,11 @@
 <table>
   <tr>
     <td width="50%"><a href="https://play.google.com/store/apps/details?id=com.ornobaadi.popcalc"><img src="assets/cinder-app-popcalc.svg" alt="PopCalc on Google Play" width="100%"></a></td>
-    <td width="50%"><a href="https://play.google.com/store/apps/details?id=com.zeropuff.app"><img src="assets/cinder-app-zeropuff.svg" alt="ZeroPuff, launching soon on Google Play: a quit-smoking companion with craving rescue, a smoke-free clock, streaks and money saved." width="100%"></a></td>
+    <td width="50%"><a href="https://play.google.com/store/apps/details?id=com.zeropuff.app"><img src="assets/cinder-app-zeropuff.svg" alt="ZeroPuff on Google Play: a quit-smoking companion with craving rescue, a smoke-free clock, streaks and money saved." width="100%"></a></td>
   </tr>
 </table>
+
+<img src="assets/cinder-app-ripped.svg" alt="Now building Ripped, an offline-first workout app for Android, built in Flutter." width="100%">
 
 <img src="assets/cinder-title-work.svg" alt="Products, not tutorials." width="100%">
 
@@ -37,9 +39,9 @@
 <img src="assets/cinder-title-connect.svg" alt="Let's build something." width="100%">
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1gaW84ZM3Se-QxE3wiByhctVrLGVrozKV/view?usp=sharing"><img src="assets/cinder-link-resume.svg" alt="Résumé (PDF)" height="44"></a>&nbsp;
   <a href="mailto:aadi4789@gmail.com"><img src="assets/cinder-link-email.svg" alt="Email" height="44"></a>&nbsp;
-  <a href="https://wa.me/8801974716063"><img src="assets/cinder-link-whatsapp.svg" alt="WhatsApp" height="44"></a>
+  <a href="https://wa.me/8801974716063"><img src="assets/cinder-link-whatsapp.svg" alt="WhatsApp" height="44"></a>&nbsp;
+  <a href="https://profile.ornobaadi.tech/"><img src="assets/cinder-link-profile.svg" alt="Minimal portfolio: profile.ornobaadi.tech" height="44"></a>
 </p>
 
 <a href="https://www.ornobaadi.tech/"><img src="assets/cinder-footer.svg" alt="Aadi. Have something to build? ornobaadi.tech" width="100%"></a>

@@ -15,7 +15,7 @@ OUT = ROOT / "assets"
 W = 1200
 
 PAPER, PANEL, RULE, RULE2 = "#0d0c0b", "#141210", "#2a2724", "#3a342e"
-INK, MUTE, EMBER, EMBER2 = "#f2ede6", "#8a837a", "#ff6a1a", "#ffb27a"
+INK, MUTE, EMBER, EMBER2 = "#f2ede6", "#8a837a", "#4fc3a1", "#a6e6d3"
 SERIF = "'Instrument Serif','Iowan Old Style',Georgia,'Times New Roman',serif"
 SANS = "Inter,-apple-system,'Segoe UI',system-ui,sans-serif"
 MONO = "ui-monospace,'SF Mono','Cascadia Code',Consolas,monospace"
@@ -24,7 +24,7 @@ APPS = [
     ("PC", "PopCalc", ["A calculator for everyday sums,", "fast to open and easy to read."],
      "ON GOOGLE PLAY", "FLUTTER · DART"),
     ("ZP", "ZeroPuff", ["Quit-smoking companion: craving rescue,", "smoke-free clock, streaks, money saved."],
-     "LAUNCHING SOON", "FLUTTER · RIVERPOD · ISAR · SUPABASE"),
+     "ON GOOGLE PLAY", "FLUTTER · RIVERPOD · ISAR · SUPABASE"),
 ]
 
 PROJECTS = [
@@ -87,15 +87,12 @@ def write(name, content):
 def hero():
     img = base64.b64encode((OUT / "portrait.jpg").read_bytes()).decode()
     h = 560
-    bars = "".join(
-        f'<rect class="bar" x="{60+i*9}" y="{486}" width="4" height="34" '
-        f'style="animation-delay:-{(i*0.37)%2.4:.2f}s"/>' for i in range(22))
     body = f'''{panel(h, (".78", ".45"))}
 <defs>
   <clipPath id="arch"><path d="M790 470 V210 a150 150 0 0 1 300 0 V470 Z"/></clipPath>
   <linearGradient id="beam" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="{EMBER}" stop-opacity="0"/><stop offset=".5" stop-color="{EMBER2}"/><stop offset="1" stop-color="{EMBER}" stop-opacity="0"/></linearGradient>
   <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset=".55" stop-color="{PAPER}" stop-opacity="0"/><stop offset="1" stop-color="{PAPER}" stop-opacity=".92"/></linearGradient>
-  <filter id="warm"><feColorMatrix type="matrix" values="0.62 0.32 0.10 0 0.03  0.36 0.46 0.08 0 0.0  0.20 0.22 0.20 0 0.0  0 0 0 1 0"/></filter>
+  <filter id="warm"><feColorMatrix type="matrix" values="0.50 0.34 0.08 0 0  0.28 0.54 0.08 0 0  0.26 0.34 0.32 0 0  0 0 0 1 0"/></filter>
 </defs>
 {mono(60, 62, "AADI", INK)}{mono(130, 62, "FULL STACK · FLUTTER · DHAKA")}
 {mono(1140, 62, "ORNOBAADI.TECH ↗", EMBER, extra='text-anchor="end"')}
@@ -191,6 +188,29 @@ def app_card(i, code, name, desc, status, stack):
 '''
 
 
+def building():
+    h = 300
+    rows = ""
+    for i, (w, done) in enumerate([(150, True), (190, True), (120, True), (170, False)]):
+        y = 66 + i * 50
+        c = EMBER if done else RULE2
+        rows += (f'<rect x="830" y="{y}" width="322" height="38" rx="8" fill="{PANEL}" stroke="{RULE2}"/>'
+                 f'<rect x="848" y="{y+16}" width="{w}" height="6" rx="3" fill="{RULE2}"/>')
+        rows += (f'<path d="M1120 {y+20} l6 6 l12 -12" stroke="{c}" stroke-width="2.5" fill="none"/>' if done
+                 else f'<circle cx="1128" cy="{y+19}" r="7" fill="none" stroke="{c}" stroke-width="2"/>')
+    body = (f'{panel(h, (".85", ".4"))}{rows}'
+            f'<rect x="48.5" y="48.5" width="91" height="91" rx="22" fill="{PANEL}" stroke="{EMBER}"/>'
+            f'{t(94, 108, "RP", 34, SERIF, EMBER, chr(116)+"ext-anchor=" + chr(34) + "middle" + chr(34))}'
+            f'{mono(164, 70, "NOW BUILDING · ANDROID", EMBER, 11)}'
+            f'{t(162, 124, "Ripped", 56, SERIF)}'
+            f'{t(50, 190, "An offline-first workout app for Android.", 20, SANS, INK)}'
+            f'{t(50, 220, "Built in Flutter, so it works in the gym with no signal.", 17, SANS, MUTE)}'
+            f'<line x1="50" y1="246" x2="760" y2="246" stroke="{RULE}"/>'
+            f'{mono(50, 272, "FLUTTER · DART · OFFLINE-FIRST", MUTE, 11)}'
+            f'{mono(760, 272, "IN PROGRESS", EMBER, 11, chr(116)+"ext-anchor=" + chr(34) + "end" + chr(34))}')
+    write("app-ripped", svg(h, body, "Now building Ripped, an offline-first workout app for Android, built in Flutter."))
+
+
 # ---------------------------------------------------------------- project art
 def art(slug):
     ox, oy = 820, 40
@@ -271,6 +291,7 @@ LINKS = [
     ("x", "X", "@OrnobAadi", False),
     ("email", "EMAIL", "aadi4789@gmail.com", False),
     ("whatsapp", "WHATSAPP", "+880 1974 716063", False),
+    ("profile", "MINIMAL PORTFOLIO", "profile.ornobaadi.tech", False),
 ]
 
 
@@ -278,7 +299,7 @@ def link(slug, label, value, primary):
     w = max(len(value) * 9.2, len(label) * 8.4) + 92
     w = int(w)
     h = 60
-    bg, fg, sub = (EMBER, PAPER, "#5a2a10") if primary else (PANEL, INK, MUTE)
+    bg, fg, sub = (EMBER, PAPER, "#123f33") if primary else (PANEL, INK, MUTE)
     cx = w - 30
     body = (f'<rect x=".5" y=".5" width="{w-1}" height="{h-1}" rx="12" fill="{bg}" stroke="{EMBER if primary else RULE2}"/>'
             + mono(20, 24, label, sub, 10)
@@ -318,6 +339,7 @@ if __name__ == "__main__":
         (OUT / f"cinder-app-{a[1].lower()}.svg").write_text(app_card(i, *a), encoding="utf-8")
     for p in PROJECTS:
         project(*p)
+    building()
     toolkit()
     for l in LINKS:
         link(*l)
